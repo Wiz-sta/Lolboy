@@ -1,0 +1,6 @@
+{
+  "name": "Sakib Browser",
+  "description": "Fast and modern Android web browser with smart search, multi-tab browsing, AI study assistant, and tutor discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
